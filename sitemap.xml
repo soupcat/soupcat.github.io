@@ -7,4 +7,10 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://soupcat.com/phone/index.html"/>
   </url>
+  <url>
+    <loc>http://soupcat.com/assets/lines.js</loc>
+    <lastmod>2017-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
