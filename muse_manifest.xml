@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soupcat.com" resolutions="1x" timestamp="1486069499408">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soupcat.com" resolutions="1x" timestamp="1502720585807">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="3995082296" ref="phone>index"/>
@@ -7,8 +7,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4186973086"/>
-    <file name="index.css" crc="119414396" ref="index"/>
-    <file name="nomq_index.css" crc="3817137829" ref="index"/>
+    <file name="index.css" crc="176415790" ref="index"/>
+    <file name="nomq_index.css" crc="54720155" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="envelope3">
@@ -43,5 +43,5 @@
     <file name="newstuff4.png" crc="11912259" ref="phone>index:index"/>
     <file name="bigger pattern2.png" crc="4269727815" ref="phone>index:index"/>
   </folder>
-  <file name="index.html" crc="4239840010" seo="true" mt="1486069499083" redirect="true"/>
+  <file name="index.html" crc="138114825" seo="true" mt="1502720526266" redirect="true"/>
 </manifest>
