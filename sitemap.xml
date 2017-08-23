@@ -2,44 +2,104 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://soupcat.com/index.html</loc>
-    <lastmod>2017-08-21</lastmod>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://soupcat.com/phone/index.html"/>
   </url>
   <url>
     <loc>http://soupcat.com/images/untitled-2.gif</loc>
-    <lastmod>2017-08-21</lastmod>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://soupcat.com/images/skeleton.gif</loc>
-    <lastmod>2017-08-21</lastmod>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://soupcat.com/images/silly-walk12.gif</loc>
-    <lastmod>2017-08-21</lastmod>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://soupcat.com/images/thumbnail.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://soupcat.com/images/ezgif-4-5f7d47acb1.gif</loc>
-    <lastmod>2017-08-21</lastmod>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://soupcat.com/images/ezgif-4-406995ada4.gif</loc>
-    <lastmod>2017-08-21</lastmod>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/ezgif-4-a38263feb6.gif</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/the-other-thing2.gif</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/thumbnail%20stick.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/silly%20walk.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/mlab%20promotional%20videomp4_snapshot_0003_-20170823_163945-.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/hotdog.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/cloud.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/battery.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/smokersfoodtruck.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/backup.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -50,44 +110,98 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://soupcat.com/images/the-other-thing2.gif</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://soupcat.com/images/theft.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://soupcat.com/images/thumbnail%20stick.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://soupcat.com/images/skeleton.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://soupcat.com/images/thumbnail343x343.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://soupcat.com/images/smokers%20food%20truck.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://soupcat.com/images/thumbnail%20stick343x343.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://soupcat.com/images/silly%20walk2.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://soupcat.com/images/thumbnail300x300.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://soupcat.com/images/mlab%20promotional%20videomp4_snapshot_0003_-20170823_163945-2.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://soupcat.com/images/thumbnail%20stick300x300.jpg</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://soupcat.com/images/hotdog2.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://soupcat.com/images/ezgif-4-a38263feb6.gif</loc>
-    <lastmod>2017-08-21</lastmod>
+    <loc>http://soupcat.com/images/cloud2.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/battery2.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/smokersfoodtruck2.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/backup2.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/thumbnail2.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/space2.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/theft2.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/skeleton2.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/thumbnail%20stick2.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soupcat.com/images/space.jpg</loc>
+    <lastmod>2017-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
