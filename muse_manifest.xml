@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soupcat.com" resolutions="1x" timestamp="1503506644912">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soupcat.com" resolutions="1x" timestamp="1505280806693">
   <folder name="css">
     <file name="site_global.css" crc="4186973086"/>
-    <file name="index.css" crc="4119028399" ref="index"/>
-    <file name="nomq_index.css" crc="4242293573" ref="index"/>
+    <file name="index.css" crc="275869815" ref="index"/>
+    <file name="nomq_index.css" crc="110367308" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="lines">
@@ -28,60 +28,58 @@
     <file name="museutils.js" crc="3851988764" ref="phone>index:index"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
     <file name="museconfig.js" crc="4242129463" ref="phone>index:index"/>
-    <file name="jquery.scrolleffects.js" crc="511146689" ref="phone>index"/>
+    <file name="pie.js" crc="3831537696" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4067903014" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="474750357" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:index"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="phone>index:index"/>
     <file name="require.js" crc="4108833657" ref="phone>index:index"/>
-    <file name="pie.js" crc="3831537696" ref="index"/>
-    <file name="webpro.js" crc="4067903014" ref="index"/>
-    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
-    <file name="touchswipe.js" crc="474750357" ref="index"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4253837938" ref="phone>index"/>
     <file name="newstuff4.png" crc="11912259" ref="phone>index:index"/>
+    <file name="silly walk.jpg" crc="3913479376" seo="true" ref="phone>index:index"/>
+    <file name="mlab promotional videomp4_snapshot_0003_-20170823_163945-.jpg" crc="416200625" seo="true" ref="phone>index:index"/>
+    <file name="hotdog.jpg" crc="295077849" seo="true" ref="phone>index:index"/>
+    <file name="listen-to-the-cloud.jpg" crc="3956355770" seo="true" ref="phone>index:index"/>
+    <file name="back-up-data-gif.jpg" crc="4216527762" seo="true" ref="phone>index:index"/>
+    <file name="the-other-thing-.jpg" crc="4069564891" seo="true" ref="phone>index:index"/>
+    <file name="thumbnail.jpg" crc="3904447554" seo="true" ref="phone>index:index"/>
+    <file name="space.jpg" crc="59729798" seo="true" ref="phone>index:index"/>
+    <file name="skeleton.jpg" crc="207152768" seo="true" ref="phone>index:index"/>
+    <file name="thumbnail stick.jpg" crc="4185648957" seo="true" ref="phone>index:index"/>
+    <file name="untitled-1.jpg" crc="3889123761" seo="true" ref="phone>index:index"/>
+    <file name="silly-walk12.gif" crc="146678448" seo="true" ref="phone>index:index"/>
+    <file name="untitled-2.gif" crc="371736759" seo="true" ref="phone>index:index"/>
+    <file name="listen-to-the-cloud2.gif" crc="346946246" seo="true" ref="phone>index:index"/>
+    <file name="back-up-data-gif-2.gif" crc="4063432017" seo="true" ref="phone>index:index"/>
+    <file name="the-other-thing-2.gif" crc="3897985864" seo="true" ref="phone>index:index"/>
+    <file name="skeleton.gif" crc="4169719642" seo="true" ref="phone>index:index"/>
+    <file name="bustop.gif" crc="113942222" seo="true" ref="phone>index:index"/>
     <file name="bigger pattern2.png" crc="4269727815" ref="phone>index:index"/>
-    <file name="untitled-2.gif" crc="371736759" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="skeleton.gif" crc="4169719642" seo="true" ref="index"/>
-    <file name="silly-walk12.gif" crc="146678448" seo="true" ref="index"/>
-    <file name="thumbnail.jpg" crc="4125003538" seo="true" ref="index"/>
-    <file name="ezgif-4-5f7d47acb1.gif" crc="215662303" seo="true" ref="index"/>
-    <file name="ezgif-4-406995ada4.gif" crc="347241067" seo="true" ref="index"/>
-    <file name="ezgif-4-a38263feb6.gif" crc="135996678" seo="true" ref="index"/>
-    <file name="the-other-thing2.gif" crc="4019309727" seo="true" ref="index"/>
-    <file name="thumbnail stick.jpg" crc="3980413736" seo="true" ref="index"/>
-    <file name="silly walk.jpg" crc="4050726449" seo="true" ref="index"/>
-    <file name="mlab promotional videomp4_snapshot_0003_-20170823_163945-.jpg" crc="4004016683" seo="true" ref="index"/>
-    <file name="hotdog.jpg" crc="3820236683" seo="true" ref="index"/>
-    <file name="cloud.jpg" crc="29135960" seo="true" ref="index"/>
-    <file name="battery.jpg" crc="3952095149" seo="true" ref="index"/>
-    <file name="smokersfoodtruck.jpg" crc="3837434680" seo="true" ref="index"/>
-    <file name="backup.jpg" crc="3930737714" seo="true" ref="index"/>
-    <file name="space.jpg" crc="3868812992" seo="true" ref="index"/>
-    <file name="theft.jpg" crc="3879510954" seo="true" ref="index"/>
-    <file name="skeleton.jpg" crc="14419918" seo="true" ref="index"/>
-    <file name="smokers food truck.jpg" crc="3864992746" seo="true" ref="index"/>
-    <file name="silly walk2.jpg" crc="3913479376" seo="true" ref="index"/>
-    <file name="mlab promotional videomp4_snapshot_0003_-20170823_163945-2.jpg" crc="416200625" seo="true" ref="index"/>
-    <file name="hotdog2.jpg" crc="295077849" seo="true" ref="index"/>
-    <file name="cloud2.jpg" crc="203450592" seo="true" ref="index"/>
-    <file name="battery2.jpg" crc="29333861" seo="true" ref="index"/>
-    <file name="smokersfoodtruck2.jpg" crc="3954523940" seo="true" ref="index"/>
-    <file name="backup2.jpg" crc="3957533683" seo="true" ref="index"/>
-    <file name="thumbnail2.jpg" crc="3904447554" seo="true" ref="index"/>
-    <file name="space2.jpg" crc="59729798" seo="true" ref="index"/>
-    <file name="theft2.jpg" crc="513968577" seo="true" ref="index"/>
-    <file name="skeleton2.jpg" crc="207152768" seo="true" ref="index"/>
-    <file name="thumbnail stick2.jpg" crc="4185648957" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="silly walk2.jpg" crc="4050726449" seo="true" ref="index"/>
+    <file name="mlab promotional videomp4_snapshot_0003_-20170823_163945-2.jpg" crc="4004016683" seo="true" ref="index"/>
+    <file name="hotdog2.jpg" crc="3820236683" seo="true" ref="index"/>
+    <file name="listen-to-the-cloud2.jpg" crc="179893189" seo="true" ref="index"/>
+    <file name="back-up-data-gif2.jpg" crc="19078962" seo="true" ref="index"/>
+    <file name="the-other-thing-2.jpg" crc="116770951" seo="true" ref="index"/>
+    <file name="thumbnail2.jpg" crc="4125003538" seo="true" ref="index"/>
+    <file name="space2.jpg" crc="3868812992" seo="true" ref="index"/>
+    <file name="skeleton2.jpg" crc="14419918" seo="true" ref="index"/>
+    <file name="thumbnail stick2.jpg" crc="3980413736" seo="true" ref="index"/>
+    <file name="untitled-12.jpg" crc="249242383" seo="true" ref="index"/>
+    <file name="capture.jpg" crc="169516766" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="379064361" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+      <file name="index.css" crc="4077858591" ref="phone>index"/>
+      <file name="nomq_index.css" crc="235233040" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4173454362" seo="true" mt="1503501039006" redirect="true"/>
+    <file name="index.html" crc="3997346464" seo="true" mt="1505249395522" redirect="true"/>
   </folder>
-  <file name="index.html" crc="261836425" seo="true" mt="1503506626603" redirect="true"/>
+  <file name="index.html" crc="3935940366" seo="true" mt="1505248504136" redirect="true"/>
 </manifest>
