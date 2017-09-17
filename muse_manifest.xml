@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soupcat.com" resolutions="1x" timestamp="1505641710228">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soupcat.com" resolutions="1x" timestamp="1505641814315">
   <folder name="css">
     <file name="site_global.css" crc="4186973086"/>
-    <file name="index.css" crc="511580085" ref="index"/>
-    <file name="nomq_index.css" crc="4071378892" ref="index"/>
+    <file name="index.css" crc="367383585" ref="index"/>
+    <file name="nomq_index.css" crc="13898111" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="lines">
@@ -93,5 +93,5 @@
     </folder>
     <file name="index.html" crc="382052480" seo="true" mt="1505606576854" redirect="true"/>
   </folder>
-  <file name="index.html" crc="503949850" seo="true" mt="1505641693808" redirect="true"/>
+  <file name="index.html" crc="3883467440" seo="true" mt="1505641799691" redirect="true"/>
 </manifest>
