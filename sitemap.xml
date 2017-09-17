@@ -116,13 +116,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://soupcat.com/images/thumbnail.jpg</loc>
+    <loc>http://soupcat.com/assets/spaceman.mp4</loc>
     <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://soupcat.com/assets/spaceman.mp4</loc>
+    <loc>http://soupcat.com/images/space.jpg</loc>
     <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -147,24 +147,6 @@
   </url>
   <url>
     <loc>http://soupcat.com/images/silly-walk12.gif</loc>
-    <lastmod>2017-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://soupcat.com/images/listen-to-the-cloud22.gif</loc>
-    <lastmod>2017-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://soupcat.com/images/back-up-data-gif-22.gif</loc>
-    <lastmod>2017-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://soupcat.com/images/the-other-thing-22.gif</loc>
     <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -242,7 +224,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://soupcat.com/images/space.jpg</loc>
+    <loc>http://soupcat.com/images/thumbnail.jpg</loc>
     <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

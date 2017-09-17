@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soupcat.com" resolutions="1x" timestamp="1505641312717">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soupcat.com" resolutions="1x" timestamp="1505641710228">
   <folder name="css">
     <file name="site_global.css" crc="4186973086"/>
-    <file name="index.css" crc="3783691572" ref="index"/>
-    <file name="nomq_index.css" crc="93088242" ref="index"/>
+    <file name="index.css" crc="511580085" ref="index"/>
+    <file name="nomq_index.css" crc="4071378892" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="lines">
@@ -40,7 +40,7 @@
     <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4253837938" ref="phone>index"/>
+    <file name="favicon.ico" crc="4253837938" ref="phone>index:index"/>
     <file name="newstuff4608x389.png" crc="3839594085" seo="true" ref="phone>index"/>
     <file name="maiol.svg" crc="4242923310" seo="true" ref="phone>index"/>
     <file name="maiol_poster_.png" crc="3914868245" ref="phone>index"/>
@@ -52,9 +52,9 @@
     <file name="fb_poster_.png" crc="4166357002" ref="phone>index"/>
     <file name="untitled-2.gif" crc="371736759" seo="true" ref="phone>index:index"/>
     <file name="skeleton.gif" crc="4169719642" seo="true" ref="phone>index:index"/>
-    <file name="the-other-thing-2.gif" crc="3897985864" seo="true" ref="phone>index"/>
-    <file name="listen-to-the-cloud2.gif" crc="346946246" seo="true" ref="phone>index"/>
-    <file name="back-up-data-gif-2.gif" crc="4063432017" seo="true" ref="phone>index"/>
+    <file name="the-other-thing-2.gif" crc="3897985864" seo="true" ref="phone>index:index"/>
+    <file name="listen-to-the-cloud2.gif" crc="346946246" seo="true" ref="phone>index:index"/>
+    <file name="back-up-data-gif-2.gif" crc="4063432017" seo="true" ref="phone>index:index"/>
     <file name="mlab.gif" crc="4001005133" seo="true" ref="phone>index"/>
     <file name="capture.jpg" crc="3850383437" ref="phone>index:index"/>
     <file name="jump-stick.gif" crc="4285452316" seo="true" ref="phone>index"/>
@@ -72,9 +72,6 @@
     <file name="thumbnail stick.jpg" crc="3980413736" seo="true" ref="index"/>
     <file name="untitled-1.jpg" crc="249242383" seo="true" ref="index"/>
     <file name="silly-walk12.gif" crc="146678448" seo="true" ref="index"/>
-    <file name="listen-to-the-cloud22.gif" crc="346946246" seo="true" ref="index"/>
-    <file name="back-up-data-gif-22.gif" crc="4063432017" seo="true" ref="index"/>
-    <file name="the-other-thing-22.gif" crc="3897985864" seo="true" ref="index"/>
     <file name="bustop.gif" crc="113942222" seo="true" ref="index"/>
     <file name="silly walk2.jpg" crc="3913479376" seo="true" ref="index"/>
     <file name="mlab promotional videomp4_snapshot_0003_-20170823_163945-2.jpg" crc="416200625" seo="true" ref="index"/>
@@ -96,5 +93,5 @@
     </folder>
     <file name="index.html" crc="382052480" seo="true" mt="1505606576854" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4266222484" seo="true" mt="1505641267345" redirect="true"/>
+  <file name="index.html" crc="503949850" seo="true" mt="1505641693808" redirect="true"/>
 </manifest>
