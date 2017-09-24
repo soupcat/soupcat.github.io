@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Hoofdsteden</title>
+</head>
+
+<body>
+    <script>
+        var vragen = ["Hoofdstad van Belgie?", "Frankrijk", "Duitsland", "Nederland", "Spanje", "Latvia", "Rusland", "italie", "Ierland", "Griekeland"];
+        var antwoorden = ["brussel", "parijs", "berlijn", "amsterdam", "madrid", "riga", "moscow", "rome", "dublin", "athene"];
+        var quizscore = 0;
+        var teller = 0;
+        if (teller == 0) {
+            nieuweVraag();
+        }
+
+        function nieuweVraag() {
+            if (teller != 10) {
+                var antwoord = prompt(vragen[teller]).toLocaleLowerCase();
+                if (antwoord == antwoorden[teller]) {
+                    teller += 1;
+                    quizscore += 1;
+                    nieuweVraag();
+                }
+                else {
+                    alert("fout");
+                    teller += 1;
+                    nieuweVraag();
+                }
+            }
+            else {
+                alert("gg");
+                document.write("Uw score: " + quizscore + " op 10.");
+            }
+        }
+    </script>
+</body>
+
+</html>
