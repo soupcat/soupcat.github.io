@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soupcat.com" resolutions="1x" timestamp="1506372998264">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soupcat.com" resolutions="1x" timestamp="1506720258737">
   <folder name="css">
     <file name="site_global.css" crc="4186973086"/>
     <file name="index.css" crc="500537563" ref="index"/>
@@ -37,10 +37,10 @@
     <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
     <file name="touchswipe.js" crc="474750357" ref="index"/>
     <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="phone>index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4253837938" ref="phone>index"/>
-    <file name="newstuff4608x389.png" crc="3839594085" seo="true" ref="phone>index"/>
     <file name="maiol.svg" crc="4242923310" seo="true" ref="phone>index"/>
     <file name="maiol_poster_.png" crc="3914868245" ref="phone>index"/>
     <file name="resume.svg" crc="255154440" seo="true" ref="phone>index"/>
@@ -55,7 +55,7 @@
     <file name="listen-to-the-cloud2.gif" crc="346946246" seo="true" ref="phone>index"/>
     <file name="back-up-data-gif-2.gif" crc="4063432017" seo="true" ref="phone>index"/>
     <file name="mlab.gif" crc="4001005133" seo="true" ref="phone>index"/>
-    <file name="capture.jpg" crc="3850383437" ref="phone>index:index"/>
+    <file name="capture.jpg" crc="3850383437" ref="phone>index:index" seo="true"/>
     <file name="jump-stick.gif" crc="4285452316" seo="true" ref="phone>index"/>
     <file name="bigger pattern2.png" crc="4269727815" ref="phone>index:index"/>
     <file name="newstuff4.png" crc="11912259" ref="index"/>
@@ -88,13 +88,13 @@
     <file name="thumbnail2.jpg" crc="3904447554" seo="true" ref="index"/>
     <file name="skeleton2.jpg" crc="207152768" seo="true" ref="index"/>
     <file name="hotdog2.jpg" crc="295077849" seo="true" ref="index"/>
+    <file name="newstuff4-u37256-fr.png" crc="3890203508" ref="phone>index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="15938483" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+      <file name="index.css" crc="4282903581" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="278939986" seo="true" mt="1506355012031" redirect="true"/>
+    <file name="index.html" crc="3795422408" seo="true" mt="1506720245920" redirect="true"/>
   </folder>
   <file name="index.html" crc="4118136236" seo="true" mt="1506354220234" redirect="true"/>
 </manifest>
